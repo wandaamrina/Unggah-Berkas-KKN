@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -98,8 +99,8 @@
         <th>No</th>
         <th>Nim</th>
         <th>Nama</th>
+        <th>Prodi</th>
         <th>Alamat</th>
-        <th>prodi</th>
         <th>Surat Pernyataan</th>
         <th>Surat Pelatihan</th>
         <th>Bukti Bayar</th>
